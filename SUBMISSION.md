@@ -7,8 +7,8 @@
 **Submitted by:** Samatha Kumbam  
 **Date:** August 2026  
 **Repository:** `samatha-93/lumiere-beauty-studio`
-**Live Demo:**  
-https://lumiere-beauty-studio-one.vercel.app/
+
+**Live Demo:** https://lumiere-beauty-studio-one.vercel.app/
 
 ---
 
