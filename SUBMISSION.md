@@ -181,7 +181,7 @@ The following extras demonstrate attention to detail and UX quality:
 2. **Testimonials section** — client social proof
 3. **Experience section** — brand values (Personalised Care, Expert Artistry, Premium Products, Calming Space)
 4. **Form validation** — required fields, email format checks, inline errors
-5. **Accessibility** — skip-friendly structure, ARIA labels, semantic landmarks
+5. **Accessibility** —  semantic landmarks, descriptive image alt text, ARIA labels, and keyboard-friendly navigation
 6. **Footer social links** — Instagram, X (Twitter), Facebook
 7. **Mobile menu polish** — body scroll lock, clean open/close behaviour
 8. **Equal-height cards** — consistent layout in Services, Pricing, and Testimonials
@@ -202,31 +202,33 @@ npm run dev
 
 # 4. (Optional) Production build
 npm run build
+
 npm run preview
+
 ```
-
----
-
 ## Suggested Review Flow for Evaluator
 
 1. Open the site on **desktop** — scroll through all sections top to bottom
 2. Test **navbar links** — Home, About, Services, Pricing, Contact
-3.3. Click **Book Appointment** and **Book Now** CTAs — confirm they scroll to the appointment form
+3. Click **Book Appointment** and **Book Now** CTAs — confirm they scroll to the appointment form
 4. Resize to **mobile** (or use DevTools) — test hamburger menu and layout
 5. Fill out the **Contact form** — test validation and success state
 6. Review **Services** and **Pricing** content for clarity and completeness
-
+7. 
 ---
+
+
 
 ## Conclusion
 
-This submission fully satisfies the technical task requirements for a Beauty Parlour single-page website. It demonstrates:
+This project demonstrates:
 
-- Front-end development skills (React, CSS, JavaScript)
-- Responsive design across devices
+- Front-end development skills using React, CSS, and JavaScript
+- Responsive design across desktop and mobile viewports
 - Attention to visual detail and brand consistency
-- Clean, maintainable code structure
-- A polished, professional user experience suitable for a real beauty salon brand
+- Clean and maintainable front-end code structure
+- User-friendly navigation and appointment booking interactions
+- Client-side form validation and responsive UX
 
 ---
 
