@@ -1,4 +1,5 @@
 # Technical Task Submission
+
 ## Beauty Parlour Website — Lumière Beauty Studio
 
 **Task:** Design and develop a single-page static website based on a Beauty Parlour / Beauty Salon theme.
@@ -6,6 +7,8 @@
 **Submitted by:** samatha kumbam  
 **Date:** August 2026  
 **Repository:** `samatha-93/lumiere-beauty-studio`
+**Live Demo:**  
+https://lumiere-beauty-studio-one.vercel.app/
 
 ---
 
