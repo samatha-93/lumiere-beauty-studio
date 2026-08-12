@@ -3,9 +3,9 @@
 
 **Task:** Design and develop a single-page static website based on a Beauty Parlour / Beauty Salon theme.
 
-**Submitted by:** [Your Name]  
+**Submitted by:** samatha kumbam  
 **Date:** August 2026  
-**Repository / folder:** `Beauty_parlour_website`
+**Repository:** `samatha-93/lumiere-beauty-studio`
 
 ---
 
@@ -208,7 +208,7 @@ npm run preview
 
 1. Open the site on **desktop** — scroll through all sections top to bottom
 2. Test **navbar links** — Home, About, Services, Pricing, Contact
-3. Click **Book Appointment** and **Book Now** CTAs — confirm they scroll to Contact
+3.3. Click **Book Appointment** and **Book Now** CTAs — confirm they scroll to the appointment form
 4. Resize to **mobile** (or use DevTools) — test hamburger menu and layout
 5. Fill out the **Contact form** — test validation and success state
 6. Review **Services** and **Pricing** content for clarity and completeness
