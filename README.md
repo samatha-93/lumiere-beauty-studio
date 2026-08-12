@@ -2,7 +2,11 @@
 
 A single-page, fully responsive beauty salon website built as a front-end development assignment. The site presents a premium beauty parlour brand with clear services, pricing, and contact/booking flows.
 
-**Live preview (local):** run `npm run dev` and open `http://localhost:5173`
+## Project Status
+
+Completed front-end development assignment with responsive design,
+navigation, appointment booking flow, client-side validation, and
+production build verification.
 
 ---
 
@@ -137,10 +141,10 @@ npm run lint
 
 - The appointment form includes client-side validation. Submitted data is not sent to a server (static demo).
 - All images are bundled locally under `src/assets/images/`.
-- For a formal requirement checklist and submission summary, see [SUBMISSION.md](./SUBMISSION.md).
-
----
-
+- 
 ## Author
 
+**Samatha Kumbam**
+
 Front-end development assignment — Beauty Parlour / Beauty Salon theme.
+
