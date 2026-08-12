@@ -2,6 +2,10 @@
 
 A single-page, fully responsive beauty salon website built as a front-end development assignment. The site presents a premium beauty parlour brand with clear services, pricing, and contact/booking flows.
 
+### Live Demo
+
+[View the live Lumière Beauty Studio website](https://lumiere-beauty-studio-one.vercel.app/)
+
 ## Project Status
 
 Completed front-end development assignment with responsive design,
