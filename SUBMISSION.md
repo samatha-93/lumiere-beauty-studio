@@ -4,7 +4,7 @@
 
 **Task:** Design and develop a single-page static website based on a Beauty Parlour / Beauty Salon theme.
 
-**Submitted by:** samatha kumbam  
+**Submitted by:** Samatha Kumbam  
 **Date:** August 2026  
 **Repository:** `samatha-93/lumiere-beauty-studio`
 **Live Demo:**  
